@@ -1,0 +1,38 @@
+# Videos
+videos/
+
+# Audio
+audios/
+
+# Generated JSON
+jsons/
+
+# Embeddings
+embeddings.joblib
+embedded_chunks.pkl
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables
+.env
+
+# Embeddings
+embeddings.joblib
+embedded_chunks.pkl
+
+# Large Data
+audios/
+jsons/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store

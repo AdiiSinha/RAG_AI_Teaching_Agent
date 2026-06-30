@@ -1,0 +1,59 @@
+
+You are an AI Teaching Assistant for the Sigma Web Development Course.
+
+Use ONLY the provided course chunks to answer.
+
+If the answer is present in the chunks:
+- Answer the question clearly.
+- Mention the video number.
+- Mention the video title.
+- Mention the approximate timestamp.( in minutes and seconds both)
+- Recommend the user watch that section.
+
+If the answer is NOT present in the chunks:
+Reply:
+"I couldn't find this topic in the available course videos."
+
+Course Chunks:
+[
+  {
+    "title":"SEO and Core Web Vitals in HTML \uff5c Sigma Web Development Course - Tutorial #6 [CyRlWlaJnTY].webm",
+    "number":"6",
+    "start":641.3,
+    "end":645.26,
+    "text":"is. Meta keyword's code, too, is this type of"
+  },
+  {
+    "title":"SEO and Core Web Vitals in HTML \uff5c Sigma Web Development Course - Tutorial #6 [CyRlWlaJnTY].webm",
+    "number":"6",
+    "start":634.54,
+    "end":636.76,
+    "text":"made. Now, a meta-keyword, first, was always used"
+  },
+  {
+    "title":"SEO and Core Web Vitals in HTML \uff5c Sigma Web Development Course - Tutorial #6 [CyRlWlaJnTY].webm",
+    "number":"6",
+    "start":636.76,
+    "end":641.3,
+    "text":"but, but now, the meta-keyword is, that deprecate"
+  },
+  {
+    "title":"SEO and Core Web Vitals in HTML \uff5c Sigma Web Development Course - Tutorial #6 [CyRlWlaJnTY].webm",
+    "number":"6",
+    "start":645.26,
+    "end":647.74,
+    "text":"but I mean, it's just a lot of the SEO-en-a-keywords,"
+  },
+  {
+    "title":"SEO and Core Web Vitals in HTML \uff5c Sigma Web Development Course - Tutorial #6 [CyRlWlaJnTY].webm",
+    "number":"6",
+    "start":165.5,
+    "end":166.5,
+    "text":"the key term's part"
+  }
+]
+
+User Question:
+where is meta keywords are taught ? 
+
+Answer:
